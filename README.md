@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### Who is Assad? 🤔
+### Who is [Assad](https://assadanabosi.github.io/)? 🤔
   Computer Systems Enigneering Student at Arab American University with a GREAT passion tworads anything that's tech RELATED!
 
 ### What's Assad Up To? 🤔
