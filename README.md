@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🤯 Projects I'm Proud of:</h4>
+<h3 align="left">🤯 Projects I'm Proud of:</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">📫 <a href="https://linktr.ee/Err0R">Contact Assad?</a></h4>
+<h3 align="left">📫 <a href="https://linktr.ee/Err0R">Contact Assad?</a></h3>
 
 ###
 
