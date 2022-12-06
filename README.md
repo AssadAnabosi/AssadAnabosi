@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left"><a href="https://github.com/AssadAnabosi/Manager">Manager App</a>: Full Stack MERN App That is deployed and used on a daily basis for my family's workshop.</p>
+<ul align="left"><a href="https://github.com/AssadAnabosi/Manager">Manager App</a>: Full Stack MERN App That is deployed and used on a daily basis for my family's workshop.</ul>
 
 ###
 
