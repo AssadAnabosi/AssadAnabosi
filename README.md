@@ -24,6 +24,7 @@
 
 <ul>
 <li align="left"><a href="https://github.com/AssadAnabosi/Manager">Manager App</a>: Full Stack MERN App That is deployed and used on a daily basis for my family's workshop.</li>
+<li align="left"><a href="https://github.com/AssadAnabosi/Auth-API">Auth-API</a>: Express Authentication API, With reset password capability.</li>
 </ul>
 
 ###
