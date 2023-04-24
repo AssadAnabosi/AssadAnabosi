@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">📫 <a href="https://linktr.ee/Err0R">Contact Assad?</a></h3>
+<h3 align="left">📫 <a href="https://assad.anabosi.com">Contact Assad?</a></h3>
 
 ###
 
