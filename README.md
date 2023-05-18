@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">📄 <a href="https://resume.anabosi.com">Resume</a></h3>
+<h3 align="left">📄 <a href="https://github.com/AssadAnabosi/AssadAnabosi/blob/main/Assad%20Anabosi%20-%20Resume.pdf">Resume</a></h3>
 
 ###
 
