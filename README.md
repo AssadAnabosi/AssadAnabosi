@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Currently working as a Software Engineering Intern at a Local Statup</p>
+<p align="left">Currently working as a Software Engineering at a Local Statup</p>
 
 <p align="left">I'm always in the middle of getting MORE KNOWLEDGE about everything! because the moment you stop learning is the moment you start failing</p>
 
