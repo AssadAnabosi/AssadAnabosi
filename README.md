@@ -25,7 +25,8 @@
 ###
 
 <ul>
-<li align="left"><a href="https://github.com/AssadAnabosi/Manager-2.0">Manager App - 2.0</a>: Full Stack MERN PWA That is deployed and used daily for my family's workshop.</li>
+<li align="left"><a href="https://github.com/AssadAnabosi/Manager-2.0">Manager App - 2.0</a>: Full Stack MERN PWA that is deployed and used daily for my family's workshop.</li>
+<li align="left"><a href="https://github.com/AssadAnabosi/esp8266_dashboard">esp8266_dashboard</a>: A web interface for the ESP8266 enabling the user to connect it to the ESP and configure what network to connect to.</li>
 <li align="left"><a href="https://github.com/AssadAnabosi/Auth-API">Auth-API</a>: Express Authentication API, With reset password capability.</li>
 </ul>
 
