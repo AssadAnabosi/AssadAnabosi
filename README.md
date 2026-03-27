@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">I am currently working on my Senior Project for my <strong>B.Sc. in Computer Systems Engineering</strong>, titled <strong>“Safe-Heart: AIoT-Enabled ECG Real-Time Monitoring and Analysis”</strong>.
+<p align="left">Just wrapped my Senior Project for my degree in <strong>Computer Systems Engineering</strong>, titled <strong>“Safe-Heart: AIoT-Enabled ECG Real-Time Monitoring and Analysis”</strong>.
 <br>
-The project integrates <strong>Artificial Intelligence (AI)</strong>, the <strong>Internet of Things (IoT)</strong>, and <strong>Blockchain</strong> to deliver a reliable ECG monitoring system that's due on Feb 2026. 
+The project integrates <strong>Artificial Intelligence (AI)</strong>, the <strong>Internet of Things (IoT)</strong>, and <strong>Blockchain</strong> to deliver a reliable ECG monitoring system. 
 <br>
-<a href="https://drive.google.com/file/d/1lzbUILiIri1Ex7h0eybEWd8_t6xcHrow/view?usp=sharing">View current progress document</a>
+<a href="https://drive.google.com/drive/folders/1VqYdSZ2ldmboPwoGAzPVF8kJJcZoCYBa?usp=sharing">View it here</a>
 </p>
 
 <p align="left">I'm always in the middle of getting MORE KNOWLEDGE about everything! because the moment you stop learning is the moment you start failing</p>
