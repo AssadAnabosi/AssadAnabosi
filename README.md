@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">😶‍🌫️ Who is <a href="https://portfolio.anabosi.com">Assad</a>?</h3>
+<h3 align="left">😶‍🌫️ Who is Assad?</h3>
 
 ###
 
