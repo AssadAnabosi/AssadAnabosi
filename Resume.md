@@ -10,6 +10,16 @@
 
 # Work Experience
 
+## Junior Software Engineer
+
+**Foothill Solutions** — _Hybrid_  
+_Oct 2026 – Present_
+
+## Software Engineering Intern
+
+**Foothill Solutions** — _Nablus, Palestine (On-site)_  
+_Jun 2026 – Sep 2026 (4 months)_
+
 ## Part-Time Software Engineer
 
 **Ayzeen, Inc.** — _Remote_  
