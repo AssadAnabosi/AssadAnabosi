@@ -55,10 +55,6 @@ GitHub, Git workflow, Agile methodologies, and familiar with Docker and containe
 - Built a **cross-platform PWA** to help digitalize and manage my family's workshop, saving tens of hours a month, and enabling better financial decisions.
 - Developed the application using **Vite**, **React.js**, and **TailwindCSS** on the frontend and **Node.js/Bun**, **Express.js**, and **MongoDB** for the backend.
 
-## [esp8266_dashboard](https://github.com/AssadAnabosi/esp8266_dashboard): ESP8266 Wi-Fi Manager Dashboard
+## [WiFi-Onboarding-ESP](https://github.com/AssadAnabosi/WiFi-Onboarding-ESP): ESP Wi-Fi Onboarding Interface
 
-- A web interface for the **ESP8266** enabling the user to connect it to the ESP and configure what network to connect to, designed as a boilerplate to help you quickly get started with your **IoT** projects.
-
-## [Auth-API](https://github.com/AssadAnabosi/auth-api): Express JWT Auth API
-
-- A public Auth API template with reset password functionality (using Nodemailer), designed for easy use. It serves as a reference and foundation for colleagues' projects.
+- A web interface for the **ESP8266/ESP32** enabling the user to connect it to the ESP and configure what network to connect to, designed as a boilerplate to help you quickly get started with your **IoT** projects.
