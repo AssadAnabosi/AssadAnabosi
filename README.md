@@ -1,6 +1,8 @@
 <h1 align="left">👋 Hello World!!</h1>
 
-<p align="left">I'm a Computer Systems Engineering Student at Arab American University. Always been passionate about technology and solving problems via technology!</p>
+<p align="left">I'm a Junior Software Engineer. Always been passionate about technology and solving problems via technology!</p>
+<br>
+<p align="left">Finding bugs in system's is my favorite thing to do... but I aint a QA dev.</p>
 
 ###
 
