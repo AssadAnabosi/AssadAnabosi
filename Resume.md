@@ -65,6 +65,6 @@ GitHub, Git workflow, Agile methodologies, and familiar with Docker and containe
 - Built a **cross-platform PWA** to help digitalize and manage my family's workshop, saving tens of hours a month, and enabling better financial decisions.
 - Developed the application using **Vite**, **React.js**, and **TailwindCSS** on the frontend and **Node.js/Bun**, **Express.js**, and **MongoDB** for the backend.
 
-## [WiFi-Onboarding-ESP](https://github.com/AssadAnabosi/WiFi-Onboarding-ESP): ESP Wi-Fi Onboarding Interface
+## [WiFi-Onboarding-ESP](https://github.com/AssadAnabosi/WiFi-Onboarding-ESP): ESP32 Onboard & Update Kit
 
-- A web interface for the **ESP8266/ESP32** enabling the user to connect it to the ESP and configure what network to connect to, designed as a boilerplate to help you quickly get started with your **IoT** projects.
+- **ESP32 IoT boilerplate**: a built-in web page to put the device on WiFi, plus signed over-the-air updates from Github Releases with automatic rollback. A starting point for IoT Projects.
