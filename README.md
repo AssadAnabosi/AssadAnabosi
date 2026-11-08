@@ -27,5 +27,5 @@ The project integrates <strong>Artificial Intelligence (AI)</strong>, the <stron
 
 <ul>
 <li align="left"><a href="https://github.com/AssadAnabosi/Manager-2.0">Manager App - 2.0</a>: Full Stack MERN PWA that is deployed and used daily for my family's workshop.</li>
-<li align="left"><a href="https://github.com/AssadAnabosi/WiFi-Onboarding-ESP">WiFi-Onboarding-ESP</a>: A web interface for the ESP8266/ESP32 enabling the user to connect it to the ESP and configure what network to connect to.</li>
+<li align="left"><a href="https://github.com/AssadAnabosi/WiFi-Onboarding-ESP">WiFi-Onboarding-ESP</a>: ESP32 Wi-Fi onboarding web interface with signed OTA updates and automatic rollback. A starting point for IoT projects.</li>
 </ul>
